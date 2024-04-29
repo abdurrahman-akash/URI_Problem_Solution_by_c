@@ -3,7 +3,7 @@
 This repository contains a collection of programming problems solved on Beecrowd, an online platform for competitive programming practice. Each problem solution is implemented in various programming languages, showcasing different approaches and techniques to solve algorithmic challenges.
 
 Table of Contents
-Problem 1: [Age in Days](https://judge.beecrowd.com/en/problems/view/1020)
+Problem 1: [Age in Days](https://judge.beecrowd.com/en/problems/view/1020) 
 Problem 2: [Problem Name]
 Problem 3: [Problem Name]
 Problem 3: [Problem Name]
@@ -17,12 +17,12 @@ Each problem directory contains a detailed description of the problem statement,
 Contributions to this repository are welcome! If you have solved a problem on Beecrowd and would like to share your solution, or if you have identified improvements to existing solutions, please follow these steps:
 
 ## Fork the repository.
-1. Create a new branch for your contribution (``` git checkout -b feature/new-solution ```).
+1. Create a new branch for your contribution ``` git checkout -b feature/new-solution ```
 2. Add your solution files to the appropriate problem directory.
 3. Ensure that your code follows best practices and is well-documented.
 4. Test your solution with sample inputs and verify its correctness.
-5. Commit your changes (``` git commit -am 'Add new solution for Problem X' ```).
-6. Push to your branch (``` git push origin feature/new-solution ```).
+5. Commit your changes ``` git commit -am 'Add new solution for Problem X' ```
+6. Push to your branch ``` git push origin feature/new-solution ```
 7. Create a new Pull Request.
 
 ### BeeCrowd URL: [Provlem-Solving-set](https://judge.beecrowd.com/en/problems/index/1)
